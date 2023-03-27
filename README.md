@@ -18,7 +18,7 @@ Error Collector-Selenium-JUnit-Java
 
 
 Have Feedback?
-Feel free to fork the repo and contribute to make it better! Email to himanshu[dot]sheth[at]gmail[dot]com for any queries or ping me on the following social media sites:
+Feel free to fork the repo and contribute to make it better! Email to sripriyapkulkarni@gmail.com for any queries or ping me on the following social media sites:
 
 Twitter: @PriyaKulkarni01
 LinkedIn: @sripriyapkulkarni
